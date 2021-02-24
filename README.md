@@ -3,9 +3,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=buglessx&style=flat-square" alt="buglessx" /><br>
 
-| **SUMMARY**                                                                                                                                              | **LANGUAGES**                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Muhammad Fauzan github stats](https://github-readme-stats.vercel.app/api?username=buglessx&show_icons=true)](https://github.com/buglessx/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buglessx&layout=compact)](https://github.com/buglessx/github-readme-stats) |
+| **SUMMARY**                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Muhammad Fauzan github stats](https://github-readme-stats.vercel.app/api?username=buglessx&show_icons=true)](https://github.com/buglessx/github-readme-stats) |
 
 <!--
 **buglessx/buglessx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
