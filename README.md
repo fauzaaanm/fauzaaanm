@@ -8,4 +8,4 @@
 
 | **SUMMARY**                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Muhammad Fauzan Github Stats](https://github-readme-stats.vercel.app/api?username=fauzaaanmuhammad&show_icons=true)](https://github.com/fauzaaanmuhammad/github-readme-stats) |
+| [![Muhammad Fauzan Github Stats](https://github-readme-stats.vercel.app/api?username=fauzaaanm&show_icons=true)](https://github.com/fauzaaanm/github-readme-stats) |
