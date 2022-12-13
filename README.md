@@ -9,3 +9,11 @@
 | **SUMMARY**                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Muhammad Fauzan Github Stats](https://github-readme-stats.vercel.app/api?username=fauzaaanm&show_icons=true)](https://github.com/fauzaaanm/github-readme-stats) |
+
+### Github stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzaaanm&layout=compact)](https://github.com/fauzaaanm/github-readme-stats)
+
+<!---
+[![Fauzaaanm's github stats](https://github-readme-stats.vercel.app/api?username=fauzaaanm)](https://github.com/fauzaaanm/github-readme-stats)
+-->
