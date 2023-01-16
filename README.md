@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Nusantara Project-ROM, Komodo OS, and Project Elixir
 - 🌱 I’m currently learning Mobile Programming
 
-<img src="https://komarev.com/ghpvc/?username=fauzaaanmuhammad&style=flat-square" alt="fauzaaanmuhammad" /><br>
+<img src="https://komarev.com/ghpvc/?username=fauzaaanm&style=flat-square" alt="fauzaaanm" /><br>
 
 | **SUMMARY**                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
