@@ -6,10 +6,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=fauzaaanm&style=flat-square" alt="fauzaaanm" /><br>
 
-| **SUMMARY**                                                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Muhammad Fauzan Github Stats](https://github-readme-stats.vercel.app/api?username=fauzaaanm&show_icons=true)](https://github.com/fauzaaanm/github-readme-stats) |
-
 ### Github stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzaaanm&layout=compact)](https://github.com/fauzaaanm/github-readme-stats)
